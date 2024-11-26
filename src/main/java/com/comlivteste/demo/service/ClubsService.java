@@ -6,7 +6,6 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
 import com.comlivteste.demo.model.ClubsModel;
-import com.comlivteste.demo.model.UserModel;
 import com.comlivteste.demo.repository.IClubsRepository;
 
 @Service
